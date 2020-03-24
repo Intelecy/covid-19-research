@@ -1,1 +1,1 @@
-# covid-19-research
+# COVID-19 Research
