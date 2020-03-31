@@ -3,4 +3,4 @@ This repository contains a Colab notebook that is hooked up with the most recent
 
 We present interactive plots and use probabilistic inference to make country-level predictions for the number of daily deaths due to COVID-19.
 
-Please consider our [blog post](www.intelecy.com) for further details.
+Please consider our [blog post](https://www.intelecy.com/post/covid-19-part-2-technical-probabilistic-inference-with-logistic-growth) for further details.
